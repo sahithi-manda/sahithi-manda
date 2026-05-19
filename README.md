@@ -96,9 +96,9 @@ AI model for classifying datasets using supervised machine learning techniques.
 
 # 🌐 Connect With Me  
 
-- 💼 LinkedIn: YOUR_LINKEDIN_LINK  
-- 📂 GitHub: YOUR_GITHUB_LINK  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: www.linkedin.com/in/sahithi-reddy-manda-0a218732b 
+- 📂 GitHub: https://github.com/sahithi-manda 
+- 📧 Email: sahithi2703@gmail.com 
 
 ---
 
